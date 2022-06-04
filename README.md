@@ -1,4 +1,5 @@
-![Hey, I'm Mark](https://github.com/SlicedSilver/SlicedSilver/blob/948343c1f8dd8a845131bebc8f3592b367148682/hey.svg)
+![Hey, I'm Mark](https://github.com/SlicedSilver/SlicedSilver/blob/de32cb530d1c53051722f87a21273259aa59d5e2/hey.svg)
+  
 Hi, I'm Mark Silverwood. I'm an engineer working mainly on the creation of web applications, optimisation, and simulation models. I enjoy crafting applications that solve real problems whilst still providing delightful user experiences.
 
 ## 🔭 I’m currently working on:
