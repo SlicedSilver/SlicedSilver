@@ -3,7 +3,8 @@
   version="1.1"
   xlink="http://www.w3.org/1999/xlink"
   xmlns:svgjs="http://svgjs.dev/svgjs"
-  viewBox="0 0 846 282"
+  viewBox="0 0 840 210"
+  height="420" width="1680"
 >
   <style>
     @keyframes fadeIn {
